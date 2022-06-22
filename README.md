@@ -8,9 +8,9 @@
   
 - 🌱 I’m currently learning **Python, data science principles, and AWS**  
   
-- 📫 How to reach me **anabels.20022@gmail.com**  
+- 📫 How to reach me [email](anabels.20022@gmail.com) 
   
-- 📄 Know about my experiences [https://docs.google.com/document/d/1b81UsTiW_5BfmP5f_dGUwEWP6RSrM_x0iKizpO4Tu00/edit?usp=sharing](https://docs.google.com/document/d/1b81UsTiW_5BfmP5f_dGUwEWP6RSrM_x0iKizpO4Tu00/edit?usp=sharing)  
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1b81UsTiW_5BfmP5f_dGUwEWP6RSrM_x0iKizpO4Tu00/edit?usp=sharing)  
   
 - ⚡ Fun fact **I have extremely nerdy hobbies like painting miniatures, and building models 🤓**  
   
