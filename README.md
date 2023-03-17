@@ -4,9 +4,9 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anabel-santillan&label=Profile%20views&color=0e75b6&style=flat" alt="anabel-santillan" /> </p>  
   
-- 🔭 I’m currently working on [OAuth](https://github.com/Anabel-Santillan/crypto-cupcakes)  
+- 🔭 I’m currently working on my front end skills!  
   
-- 🌱 I’m currently learning **Python, data science principles, and AWS**  
+- 🌱 I’m currently learning **React, Material UI, & more!**  
   
 - 📫 How to reach me [email](anabels.20022@gmail.com) 
   
