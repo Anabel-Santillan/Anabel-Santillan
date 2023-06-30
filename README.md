@@ -4,7 +4,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anabel-santillan&label=Profile%20views&color=0e75b6&style=flat" alt="anabel-santillan" /> </p>  
   
-- 🔭 I’m currently working on my front end skills!  
+- 🔭 I’m currently working on my front end skills and data structures + algorithms!  
   
 - 🌱 I’m currently learning **React, Material UI, & more!**  
   
@@ -12,7 +12,7 @@
   
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1b81UsTiW_5BfmP5f_dGUwEWP6RSrM_x0iKizpO4Tu00/edit?usp=sharing)  
   
-- ⚡ Fun fact **I have extremely nerdy hobbies like painting miniatures, and building models 🤓**  
+- ⚡ Fun fact **I have extremely nerdy hobbies like gaming, painting miniatures, and building models 🤓**  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
