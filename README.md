@@ -7,11 +7,7 @@
 - 🔭 I’m currently working on my front end skills and data structures + algorithms!  
   
 - 🌱 I’m currently learning **React, Material UI, & more!**  
-  
-- 📫 How to reach me [email](anabels.20022@gmail.com) 
-  
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1b81UsTiW_5BfmP5f_dGUwEWP6RSrM_x0iKizpO4Tu00/edit?usp=sharing)  
-  
+      
 - ⚡ Fun fact **I have extremely nerdy hobbies like gaming, painting miniatures, and building models 🤓**  
   
 <h3 align="left">Connect with me:</h3>  
